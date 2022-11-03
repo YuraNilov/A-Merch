@@ -1,2 +1,2 @@
 # A-Merch
-Internship project
+Internship project (Web App)
